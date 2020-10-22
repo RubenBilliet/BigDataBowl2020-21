@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Manual additions
+# Files and folders to ignore
 Data/
+Resources/
